@@ -25,4 +25,4 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di komputer lokal An
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/chatbot-ecommerce.git
+   https://github.com/KiraSev7/EX-ChatbotE.git
